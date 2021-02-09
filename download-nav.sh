@@ -1,3 +1,4 @@
+mkdir data && cd data && \
 curl \
   -o nav-2006-04.txt "http://portal.amfiindia.com/DownloadNAVHistoryReport_Po.aspx?frmdt=01-Apr-2006&todt=30-Apr-2006 " \
   -o nav-2006-05.txt "http://portal.amfiindia.com/DownloadNAVHistoryReport_Po.aspx?frmdt=01-May-2006&todt=31-May-2006 " \
